@@ -1,0 +1,15 @@
+h1, h2 {
+	padding-left: 20px;
+}
+
+p, form {
+	padding-left: 50px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: blue;
+}
