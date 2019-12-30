@@ -1,4 +1,4 @@
-var proxyAddr = "https://35.225.177.157/";
+var proxyAddr = "https://34.66.73.6/";
 
 function loadPageAllUsers() {
 	var users = getUsers();
